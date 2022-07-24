@@ -1,1 +1,1 @@
-from messaging.messaging import Producer, Consumer
+from pika_utils.pika_utils import Producer, Consumer
